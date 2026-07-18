@@ -11,9 +11,9 @@ const config: Config = {
         surface: "#0f0f12",
         border: "#1e1e22",
         primary: {
-          DEFAULT: "#FF6A00",
-          light: "#FF8A3D",
-          dark: "#CC5500",
+          DEFAULT: "#D4AF37",
+          light: "#E9C767",
+          dark: "#A8842B",
         },
         secondary: "#FFFFFF",
         muted: "#9a9a9f",
@@ -23,13 +23,13 @@ const config: Config = {
       },
       backgroundImage: {
         "grid-fade":
-          "linear-gradient(180deg, rgba(255,106,0,0.08) 0%, rgba(5,5,5,0) 60%)",
+          "linear-gradient(180deg, rgba(212,175,55,0.08) 0%, rgba(5,5,5,0) 60%)",
         "radial-glow":
-          "radial-gradient(circle at center, rgba(255,106,0,0.35) 0%, rgba(255,106,0,0) 70%)",
+          "radial-gradient(circle at center, rgba(212,175,55,0.35) 0%, rgba(212,175,55,0) 70%)",
       },
       boxShadow: {
-        glow: "0 0 60px -10px rgba(255,106,0,0.45)",
-        "glow-sm": "0 0 24px -6px rgba(255,106,0,0.5)",
+        glow: "0 0 60px -10px rgba(212,175,55,0.45)",
+        "glow-sm": "0 0 24px -6px rgba(212,175,55,0.5)",
         card: "0 20px 60px -20px rgba(0,0,0,0.6)",
       },
       keyframes: {

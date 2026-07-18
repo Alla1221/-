@@ -7,13 +7,13 @@
       <stop offset="100%" stop-color="#1a1108"/>
     </linearGradient>
     <radialGradient id="glow-avatar-1" cx="50%" cy="30%" r="70%">
-      <stop offset="0%" stop-color="#FF6A00" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#FF6A00" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect width="200" height="200" fill="url(#grad-avatar-1)"/>
   <rect width="200" height="200" fill="url(#glow-avatar-1)"/>
-  <circle cx="100" cy="100" r="96" fill="none" stroke="#FF6A00" stroke-opacity="0.3" stroke-width="2"/>
-  <circle cx="100" cy="100" r="70" fill="#1c1c1c" stroke="#FF6A00" stroke-opacity="0.5" stroke-width="2"/>
-  <text x="100" y="116" font-family="Arial, sans-serif" font-weight="800" font-size="52" fill="#FF6A00" text-anchor="middle">س</text>
+  <circle cx="100" cy="100" r="96" fill="none" stroke="#D4AF37" stroke-opacity="0.3" stroke-width="2"/>
+  <circle cx="100" cy="100" r="70" fill="#1c1c1c" stroke="#D4AF37" stroke-opacity="0.5" stroke-width="2"/>
+  <text x="100" y="116" font-family="Arial, sans-serif" font-weight="800" font-size="52" fill="#D4AF37" text-anchor="middle">س</text>
   </svg>

@@ -7,12 +7,12 @@
       <stop offset="100%" stop-color="#1a1108"/>
     </linearGradient>
     <radialGradient id="glow-og" cx="50%" cy="30%" r="70%">
-      <stop offset="0%" stop-color="#FF6A00" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#FF6A00" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect width="1200" height="630" fill="url(#grad-og)"/>
   <rect width="1200" height="630" fill="url(#glow-og)"/>
   <text x="600" y="295" font-family="Arial, sans-serif" font-weight="800" font-size="72" fill="#ffffff" text-anchor="middle">علام المطري</text>
-  <text x="600" y="355" font-family="Arial, sans-serif" font-weight="500" font-size="30" fill="#FF6A00" text-anchor="middle">مصمم جرافيك | مبدع بالذكاء الاصطناعي</text>
+  <text x="600" y="355" font-family="Arial, sans-serif" font-weight="500" font-size="30" fill="#D4AF37" text-anchor="middle">مصمم جرافيك | مبدع بالذكاء الاصطناعي</text>
   </svg>

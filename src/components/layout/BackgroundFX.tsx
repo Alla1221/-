@@ -56,7 +56,7 @@ export function BackgroundFX() {
 
         ctx.beginPath();
         ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
-        ctx.fillStyle = `rgba(255,138,61,${p.a})`;
+        ctx.fillStyle = `rgba(233,199,103,${p.a})`;
         ctx.fill();
       });
       animationFrame = requestAnimationFrame(render);

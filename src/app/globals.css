@@ -17,7 +17,7 @@ body {
 }
 
 ::selection {
-  background-color: #ff6a00;
+  background-color: #d4af37;
   color: #050505;
 }
 
@@ -35,7 +35,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #ff6a00;
+  background: #d4af37;
 }
 
 @media (pointer: fine) {
@@ -58,7 +58,7 @@ body {
 }
 
 .text-glow {
-  text-shadow: 0 0 30px rgba(255, 106, 0, 0.5);
+  text-shadow: 0 0 30px rgba(212, 175, 55, 0.5);
 }
 
 .bg-noise {
