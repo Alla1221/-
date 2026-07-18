@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="grad-avatar-4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="55%" stop-color="#0f0f12"/>
+      <stop offset="100%" stop-color="#1a1108"/>
+    </linearGradient>
+    <radialGradient id="glow-avatar-4" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#FF6A00" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#FF6A00" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="200" height="200" fill="url(#grad-avatar-4)"/>
+  <rect width="200" height="200" fill="url(#glow-avatar-4)"/>
+  <circle cx="100" cy="100" r="96" fill="none" stroke="#FF6A00" stroke-opacity="0.3" stroke-width="2"/>
+  <circle cx="100" cy="100" r="70" fill="#1c1c1c" stroke="#FF6A00" stroke-opacity="0.5" stroke-width="2"/>
+  <text x="100" y="116" font-family="Arial, sans-serif" font-weight="800" font-size="52" fill="#FF6A00" text-anchor="middle">خ</text>
+  </svg>
