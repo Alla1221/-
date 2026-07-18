@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="grad-og" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="55%" stop-color="#0f0f12"/>
+      <stop offset="100%" stop-color="#1a1108"/>
+    </linearGradient>
+    <radialGradient id="glow-og" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grad-og)"/>
+  <rect width="1200" height="630" fill="url(#glow-og)"/>
+  <text x="600" y="295" font-family="Arial, sans-serif" font-weight="800" font-size="72" fill="#ffffff" text-anchor="middle">علام المطري</text>
+  <text x="600" y="355" font-family="Arial, sans-serif" font-weight="500" font-size="30" fill="#D4AF37" text-anchor="middle">مصمم جرافيك | مبدع بالذكاء الاصطناعي</text>
+  </svg>

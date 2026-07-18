@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560">
+  <defs>
+    <linearGradient id="grad-blog-3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="55%" stop-color="#0f0f12"/>
+      <stop offset="100%" stop-color="#1a1108"/>
+    </linearGradient>
+    <radialGradient id="glow-blog-3" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="560" fill="url(#grad-blog-3)"/>
+  <rect width="900" height="560" fill="url(#glow-blog-3)"/>
+  <path d="M0 392 Q 225 280 450 380.8 T 900 336 V 560 H 0 Z" fill="#D4AF37" opacity="0.08"/>
+  <text x="450" y="280" font-family="Arial, sans-serif" font-weight="800" font-size="34" fill="#E9C767" text-anchor="middle">السوشيال ميديا</text>
+  </svg>

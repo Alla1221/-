@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+  <defs>
+    <linearGradient id="grad-about" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="55%" stop-color="#0f0f12"/>
+      <stop offset="100%" stop-color="#1a1108"/>
+    </linearGradient>
+    <radialGradient id="glow-about" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#grad-about)"/>
+  <rect width="800" height="1000" fill="url(#glow-about)"/>
+  <circle cx="400" cy="380" r="170" fill="none" stroke="#D4AF37" stroke-width="1.5" opacity="0.25"/>
+  <circle cx="400" cy="380" r="230" fill="none" stroke="#D4AF37" stroke-width="1" opacity="0.12"/>
+  <path d="M 400 180 C 256 180 240 420 272 550 C 160 620 112.00000000000001 850 112.00000000000001 1000 L 688 1000 C 688 850 640 620 528 550 C 560 420 544 180 400 180 Z"
+    fill="#181818" stroke="#D4AF37" stroke-opacity="0.4" stroke-width="2"/>
+  <ellipse cx="400" cy="340" rx="90" ry="105" fill="#1c1c1c" stroke="#D4AF37" stroke-opacity="0.5" stroke-width="2"/>
+  <text x="400" y="358" font-family="Arial, sans-serif" font-weight="800" font-size="64" fill="#D4AF37" text-anchor="middle" opacity="0.85">AM</text>
+  </svg>
